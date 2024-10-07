@@ -1,16 +1,15 @@
-## Hi there 👋
+## boas vindas ao meu perfil
 
-<!--
-**manuzem/manuzem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ meu nome é Emanuele Zem 
 
-Here are some ideas to get you started:
+ - estou estudando na [Alura](https://www.alura.com.br)
+- estou aprendendo sobre a lingugem JavaScript
+- utilizo essa página para minha organização e postagem dos meu projeros já desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  ## Você pode entrar em contato comigo 📫
+
+  emanuelezem39@gmail.com
+
+
+![](https://media.tenor.com/uDdhIlBkMhQAAAAM/magic-dark.gif)
